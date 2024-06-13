@@ -1,0 +1,4 @@
+﻿  PaintD2D.cpp
+c:\users\sjain\source\repos\paintd2d\paintd2d\paintd2d.cpp(278): warning C4060: switch statement contains no 'case' or 'default' labels
+c:\users\sjain\source\repos\paintd2d\paintd2d\paintd2d.cpp(200): warning C4101: 'obj': unreferenced local variable
+  PaintD2D.vcxproj -> C:\Users\sjain\source\repos\PaintD2D\Debug\PaintD2D.exe

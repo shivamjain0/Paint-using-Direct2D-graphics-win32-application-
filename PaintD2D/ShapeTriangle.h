@@ -1,0 +1,22 @@
+#pragma once
+#include "Shapes.h"
+//class ShapeTriangle :public Shapes
+//{
+//	ID2D1PathGeometry* curPGeometry = NULL;
+//
+//	virtual void OnDrawShape(ID2D1HwndRenderTarget *pRenderTarget, ID2D1SolidColorBrush *pBrush, ID2D1Factory* pFactory = nullptr);
+//	void FillShape(ID2D1HwndRenderTarget *pRenderTarget, ID2D1SolidColorBrush *pBrush, ID2D1Factory* pFactory);
+//	void SetColor(ID2D1SolidColorBrush* curPBrush_);
+//};
+//
+//class ShapeRectangle :public Shapes
+//{
+//public:
+//
+//	ShapeRectangle() {}
+//
+//	virtual void OnDrawShape(ID2D1HwndRenderTarget *pRenderTarget, ID2D1SolidColorBrush *pBrush, ID2D1Factory* pFactory = nullptr);
+//	void FillShape(ID2D1HwndRenderTarget *pRenderTarget, ID2D1SolidColorBrush *pBrush, ID2D1Factory* pFactory);
+//	void SetColor(ID2D1SolidColorBrush* curPBrush_);
+//};
+
